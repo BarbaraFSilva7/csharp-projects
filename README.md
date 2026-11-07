@@ -29,4 +29,15 @@ A Console Application built to demonstrate user access validation and permission
 
 ---
 
+### 3. Million-Dollar Lottery Game
+An interactive console game built with C# utilizing random number generation and conditional logic to simulate a lottery draw.
+
+- **Where to find it:** Inside the `/LotteryGame` folder.
+- **Key Concepts Practiced:**
+  * Random number generation using the `Random` class (`random.Next`).
+  * Continuous game loops using `while (true)` with an exit condition (`0`).
+  * String interpolation (`$`) for clean and dynamic console outputs.
+  * Conditional statements (`if / else`) and counters (`matches++`) to validate guesses.
+ 
+ ---
 *My learning journey is continuously updated as I advance through my studies in backend development.*
